@@ -1,6 +1,8 @@
-# 🎓 Registration System - Pemweb
+# 🎓 Registration System - Tugas Pemweb
 
 A web-based student registration system developed for the Web Programming course using PHP, MySQL, Apache (XAMPP), HTML, and CSS.
+
+![Registration Form](ss01.png)
 
 ## 📌 Features
 
